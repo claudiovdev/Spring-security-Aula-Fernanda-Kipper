@@ -1,0 +1,1 @@
+INSERT INTO users(id,login, password, role) VALUES('dfbccad3-a4f8-4d27-9266-45428c1ec4dc','vinicius', '1234','ADMIN');
